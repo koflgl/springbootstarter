@@ -1,0 +1,4 @@
+spring:
+  person:
+    name: lgl
+    age: 20
